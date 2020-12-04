@@ -1,0 +1,4 @@
+https://cdn.jsdelivr.net/gh/distanting/bogs/icon/csdn.png
+
+icon 是目录
+csdn是文件名称
