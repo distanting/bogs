@@ -1,4 +1,5 @@
-https://cdn.jsdelivr.net/gh/distanting/bogs/icon/csdn.png
+https://cdn.jsdelivr.net/gh/distanting/bogs/icon/logo.png
+https://cdn.jsdelivr.net/gh/distanting/bogs/arti/store.png
 
 icon 是目录
 csdn是文件名称
