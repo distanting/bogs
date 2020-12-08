@@ -1,6 +1,6 @@
 https://cdn.jsdelivr.net/gh/distanting/bogs/icon/logo.png
 https://cdn.jsdelivr.net/gh/distanting/bogs/arti/store.png
 https://cdn.jsdelivr.net/gh/distanting/bogs/category/store.png
-
+https://cdn.jsdelivr.net/gh/distanting/bogs/name/1.pdf
 icon 是目录
 csdn是文件名称
