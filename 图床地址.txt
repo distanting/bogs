@@ -5,6 +5,6 @@ https://cdn.jsdelivr.net/gh/distanting/bogs/name/1.pdf
 https://cdn.jsdelivr.net/gh/distanting/bogs/js/remen1.png
 https://cdn.jsdelivr.net/gh/distanting/bogs/js/wap_indp2.png
 https://cdn.jsdelivr.net/gh/distanting/bogs/gitee.vue/01.jpg
-
+https://cdn.jsdelivr.net/gh/distanting/bogs/friend/01.jpg
 icon 是目录
 csdn是文件名称
